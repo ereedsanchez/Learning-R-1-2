@@ -92,6 +92,40 @@ will return
 ```
 
 
+## Lesson 2 - Basic Math
+
+##### Arithmetic 
+```R
+x <- 11
+y <- 4
+
+#addition
+print(x+y)
+
+#substraction
+print(x-y)
+
+#multiplication
+print(x*y)
+
+#division
+print(x/y)
+```
+
+##### Arithmetic Operators
+```R
+x <- 11
+y <- 4
+
+#exponentation
+print(x^y) #or x**y
+
+#modulus (remainder from division)
+print(x%%y)
+
+#integer division
+print(x%/%y)
+```
 
 
 
