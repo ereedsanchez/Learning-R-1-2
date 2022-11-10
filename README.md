@@ -10,7 +10,8 @@ For this class we will be learning R, which is a widely programming language use
 
 ## Software for Class
 Sign up for [Replit](https://replit.com/) using your gmail account. 
-- Share with me your username, mine is [replit.com/@ereedsanchez](https://replit.com/@ereedsanchez)
+- Email me  at ereedsanchez@gmail.com with me your username. 
+- My replit uysername is: [replit.com/@ereedsanchez](https://replit.com/@ereedsanchez)
 
 
 
