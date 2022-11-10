@@ -70,15 +70,19 @@ print(var3)
 message <- "This is called \"escaping\"."
 print(message) 
 ```
+will return
+```
 [1] "This is called \"escaping\"."
-
+```
 —
 ```R
 message <- "This is called \"escaping\"."
 cat(message)
 ```
+will return
+```
 [1] "This is called "escaping".
-
+```
 
 
 
