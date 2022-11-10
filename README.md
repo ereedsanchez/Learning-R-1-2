@@ -30,7 +30,8 @@ print(x)
 ```
 ```python
 name = “sam”
-print(sam)```
+print(sam)
+```
 
 
 ### Variables using <-
