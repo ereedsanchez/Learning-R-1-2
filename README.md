@@ -24,8 +24,14 @@ Today we will learn about basic programs and syntax used in R.
 `#Comments your code`
 
 ### Variables using =
-`x = 51
-name = “sam”`
+```python
+x = 51
+print(x)
+```
+```python
+name = “sam”
+print(sam)```
+
 
 ### Variables using <-
 ### leftward <- operator
