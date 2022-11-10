@@ -24,7 +24,7 @@ Today we will learn about basic programs and syntax used in R.
 `#Comments your code`
 
 ### Variables using =
-`x = 51\
+`x = 51
 name = “sam”`
 
 ### Variables using <-
