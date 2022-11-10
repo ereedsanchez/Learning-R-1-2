@@ -48,7 +48,7 @@ x <- y
 print(x)
 ```
 
-### Data Types
+### Data Types - Numbers
 ```R
 #numeric
 var1 <- 3.14
@@ -56,16 +56,23 @@ var1 <- 3.14
 #integer
 var2 <- 88L
 
-#text
-var3 <- "hello"
-
 print(var1)
 print(var2)
+```
+
+### Data Types - Strings - Simple Text
+
+```R
+#text
+var3 <- "hello"
 print(var3)
 ```
 
 
-### String
+
+
+### Data Types - Strings - quotations 
+
 ```R
 message <- "This is called \"escaping\"."
 print(message) 
