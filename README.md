@@ -28,7 +28,7 @@ Today we will learn about basic programs and syntax used in R.
 x = 51
 print(x)
 ```
-```python
+```R
 name = “sam”
 print(sam)
 ```
@@ -36,16 +36,20 @@ print(sam)
 
 ### Variables using <-
 ### leftward <- operator
+
+```R
 X <- 42
 print(X);
-
+```
+```R
 x <- 9
 y <- 3 
 x <- y 
 print(x)
-
+```
 
 ### Data Types
+```R
 #numeric
 var1 <- 3.14
 
@@ -58,6 +62,7 @@ var3 <- "hello"
 print(var1)
 print(var2)
 print(var3)
+```
 
 
 ### String
