@@ -18,14 +18,14 @@ Sign up for [Replit](https://replit.com/) using your gmail account.
 Today we will learn about basic programs and syntax used in R. 
 
 ### Print
-print(“text”)
+`print(“text”)`
 
 ### Commenting
-#Comments your code
+`#Comments your code`
 
 ### Variables using =
-x = 51
-name = “sam”
+`x = 51
+name = “sam”`
 
 ### Variables using <-
 ### leftward <- operator
