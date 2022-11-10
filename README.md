@@ -14,21 +14,21 @@ Sign up for [Replit](https://replit.com/) using your gmail account.
 - My replit uysername is: [replit.com/@ereedsanchez](https://replit.com/@ereedsanchez)
 
 
-#### Lesson 1 - The Basics
+## Lesson 1 - The Basics
 Today we will learn about basic programs and syntax used in R. 
 
-##### Print
+### Print
 print(“text”)
 
-##### Commenting
+### Commenting
 #Comments your code
 
-##### Variables using =
+### Variables using =
 x = 51
 name = “sam”
 
-##### Variables using <-
-##### leftward <- operator
+### Variables using <-
+### leftward <- operator
 X <- 42
 print(X);
 
@@ -38,7 +38,7 @@ x <- y
 print(x)
 
 
-##### Data Types
+### Data Types
 #numeric
 var1 <- 3.14
 
@@ -53,7 +53,7 @@ print(var2)
 print(var3)
 
 
-##### String
+### String
 
 message <- "This is called \"escaping\"."
 print(message) 
