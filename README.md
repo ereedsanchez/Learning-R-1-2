@@ -9,7 +9,7 @@ For this class we will be learning R, which is a widely programming language use
 - [R-studio](https://posit.co/downloads/)
 
 ## Software for Class
-Sign up for [Replit](replit.com/) using your gmail account. 
+Sign up for [Replit](https://replit.com/) using your gmail account. 
 - Share with me your username, mine is [replit.com/@ereedsanchez](https://replit.com/@ereedsanchez)
 
 
