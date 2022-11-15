@@ -128,5 +128,8 @@ print(x%/%y)
 ```
 
 
+### Resources 
+[Producing Simple Graphs with R](https://sites.harding.edu/fmccown/r/)
+
 
 
