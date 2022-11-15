@@ -130,7 +130,8 @@ print(x%/%y)
 
 ### Resources 
 [Producing Simple Graphs with R](https://sites.harding.edu/fmccown/r/)
-[Simple Bar Graphs in R](https://medium.com/beginner-at-bi-data-science-and-big-data/importing-data-into-r-from-a-csv-file-and-creating-a-chart-out-of-it-892d5bc81531_
+
+[Simple Bar Graphs in R](https://medium.com/beginner-at-bi-data-science-and-big-data/importing-data-into-r-from-a-csv-file-and-creating-a-chart-out-of-it-892d5bc81531_)
 
 
 
