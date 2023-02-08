@@ -26,5 +26,7 @@ Steps:
 1. Download spreadsheet as CSV file. 
 2. Upload CSV file to Replit using R! code
 3. import code to R! with the following commands: 
+
 `data <- read.csv("Breakfeast.csv")`
+
 use `print(data)` to view data in R!
